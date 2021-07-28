@@ -1,0 +1,9 @@
+.btn-white {
+  padding: 5px;
+  background-color: #ebeaea;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #383737;  
+  margin: 16px;
+  opacity: 0;
+}

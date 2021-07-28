@@ -1,0 +1,35 @@
+.card-container {
+  width: 300px;
+  margin: 16px;
+}
+
+.card-white {
+  padding: 16px;
+  background-color: white;
+  box-shadow: 0 0 8px rgb(0 0 0 / 10%);
+  margin-bottom: 16px;
+}
+
+.card-image {
+  height: 200px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.card-white:hover .btn-white {
+  opacity: 1;
+  transition: 1s;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+}
+
+.card-footer img {
+  margin-right: 16px;
+}
+
+.cards {
+  display: flex;
+}
