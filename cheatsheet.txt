@@ -1,2 +1,2 @@
 - Avatar picture
-https://avatars.githubusercontent.com/u/85116141?v=4
+https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1633567908/ritgve9b33tyb9ms7l8j.jpg

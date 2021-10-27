@@ -1,4 +1,6 @@
-.avatar-circle {
-  width: 64px;
+.avatar {
+  width: 80px;
   border-radius: 50%;
+  margin: 10px;
 }
+

@@ -1,9 +1,15 @@
 .btn-white {
-  padding: 5px;
-  background-color: #ebeaea;
+  background-color: white;
   border-radius: 4px;
-  text-decoration: none;
-  color: #383737;  
-  margin: 16px;
+  padding: 4px;
+  margin: 5px 10px;
   opacity: 0;
+  color: rgb(40,40,40);
+  border: 2px solid lightgray; 
 }
+
+.card-white:hover .btn-white {
+  transition: 1s;
+  opacity: 1;
+}
+
